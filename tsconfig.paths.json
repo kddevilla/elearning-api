@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@libs/*": ["src/libs/*"],
+      "@payload-schema/*": ["src/payload-schema/*"]
+    }
+  }
+}
